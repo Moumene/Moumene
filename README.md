@@ -16,7 +16,8 @@ My last experience was using #flutter but I'm still worknig with #ReactNatve.
 
 If you have some knowledge in the stack:  node, react, react-native, flutter , and looking for an oppurtunity, you can contact me and I'll refer you to open positions in my network.  
 
-- **Basic training for React native**
+- **Basic training for Django backend dev:** check [Assem](https://github.com/assem-ch) 
+- **Basic training for React native:**
   - [React native basic Tutorial](https://reactnative.dev/docs/tutorial)
   - [Git intro](https://rogerdudler.github.io/git-guide/)
   - If you wanna start without installing any native sdk you can try [expo](https://expo.dev/)
